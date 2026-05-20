@@ -1,0 +1,77 @@
+{
+  "carbonTracking": {
+    "heading": "Real-Time Carbon Tracking",
+    "headingAccent": "for Every Delivery",
+    "subtitle": "Monitor emissions, optimise routes, and improve sustainability across your logistics operations.",
+    "cards": [
+      {
+        "icon": "icon-route.png",
+        "title": "Optimise Delivery Routes",
+        "description": "Reduce emissions by optimising routes and improving delivery efficiency."
+      },
+      {
+        "icon": "icon-monitor.png",
+        "title": "Monitor Environmental Impact",
+        "description": "Track carbon emissions across shipments with real-time insights."
+      },
+      {
+        "icon": "icon-goals.png",
+        "title": "Achieve Sustainability Goals",
+        "description": "Set targets and measure progress toward your sustainability objectives."
+      }
+    ],
+    "cta": "Book A Demo"
+  },
+  "sustainabilityScale": {
+    "heading": "Sustainability That",
+    "headingAccent": "Scales with Your Business",
+    "subtitle": "Reduce emissions, improve efficiency, and operate more responsibly with GO-GENIE®.",
+    "items": [
+      {
+        "image": "illus-data-insights.png",
+        "title": "Data-Driven Insights",
+        "description": "Make informed decisions with accurate carbon tracking data."
+      },
+      {
+        "image": "illus-scalable-solutions.png",
+        "title": "Scalable Solutions",
+        "description": "Apply sustainability practices across your entire logistics network."
+      },
+      {
+        "image": "illus-real-impact.png",
+        "title": "Real Impact",
+        "description": "Reduce emissions while maintaining operational efficiency."
+      }
+    ]
+  },
+  "reporting": {
+    "heading": "Simplify Sustainability",
+    "headingAccent": "Reporting and Compliance",
+    "subtitle": "Track progress, generate reports and meet sustainability standards with ease.",
+    "cards": [
+      {
+        "title": "Track Progress",
+        "description": "Monitor your progress towards sustainability and certification targets.",
+        "image": "illus-track-progress.png"
+      },
+      {
+        "title": "Generate Reports",
+        "description": "Create detailed reports for audits, compliance, and internal tracking.",
+        "image": "illus-generate-reports.png"
+      },
+      {
+        "title": "Showcase Achievements",
+        "description": "Highlight your sustainability efforts and build trust with customers.",
+        "image": "illus-showcase-achievements.png"
+      }
+    ]
+  },
+  "cta": {
+    "image": "illus-city-map.png",
+    "heading": "Start Building a More Sustainable",
+    "headingAccent": "Logistics Operation",
+    "subtitle": "Take control of your emissions, meet sustainability goals, and create measurable impact.",
+    "tagline": "GO SMART, GO GREEN, GO-GENIE®",
+    "button": "Talk To Our Team"
+  }
+}

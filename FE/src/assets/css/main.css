@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-sans text-text-dark antialiased bg-white;
+  }
+
+  /* Ensure images never overflow their containers */
+  img {
+    @apply max-w-full;
+  }
+}
+
+@layer components {
+  /* Reusable button styles */
+  .btn-outline-white {
+    @apply border border-white text-white px-5 py-2 rounded-md text-sm font-medium
+           hover:bg-white hover:text-brand-blue transition-colors duration-200;
+  }
+
+  .btn-outline-blue {
+    @apply border border-brand-blue text-brand-blue px-6 py-2.5 rounded-full text-sm font-medium
+           hover:bg-brand-blue hover:text-white transition-colors duration-200;
+  }
+
+  .btn-solid-blue {
+    @apply bg-brand-blue text-white px-6 py-2.5 rounded-md text-sm font-medium
+           hover:bg-brand-blue-dark transition-colors duration-200;
+  }
+
+  /* Nav dropdown panel — styles now applied inline in NavDropdown.vue */
+  .dropdown-panel {
+    @apply absolute top-full left-0 mt-3 bg-white rounded-2xl
+           shadow-2xl border border-gray-100 py-2 min-w-[280px] z-50;
+  }
+
+  .dropdown-item {
+    @apply flex items-center gap-4 px-6 py-4 hover:bg-gray-50
+           transition-colors duration-150 cursor-pointer;
+  }
+
+  /* Responsive section padding helper */
+  .section-pad {
+    @apply py-12 sm:py-16 lg:py-20;
+  }
+}

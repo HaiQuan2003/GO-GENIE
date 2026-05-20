@@ -1,0 +1,62 @@
+{
+  "columns": [
+    {
+      "heading": "Services",
+      "links": ["Last-Mile Delivery", "Warehousing", "Fulfilment"]
+    },
+    {
+      "heading": "Solutions",
+      "links": ["Merchants", "Service Providers", "Gig Workers"]
+    },
+    {
+      "heading": "About",
+      "links": ["GO-GENIE®", "Our Ecosystem", "Sustainability", "Newsroom"]
+    },
+    {
+      "heading": "Help & Guides",
+      "links": ["Help Center", "Contact Us"]
+    },
+    {
+      "heading": "Quick Links",
+      "links": ["Privacy Policy", "Terms of Service", "Data Retention Policy"]
+    }
+  ],
+  "addresses": [
+    {
+      "label": "Singapore Address",
+      "text": "1234 Building, Random Rd, Singapore, 17890123"
+    },
+    {
+      "label": "Vietnam Address",
+      "text": "1234 Rd, Random District, Ho Chi Minh City, Vietnam"
+    }
+  ],
+  "social": [
+    { "name": "Facebook", "icon": "icon-facebook.png", "url": "#" },
+    { "name": "Instagram", "icon": "icon-instagram.png", "url": "#" },
+    { "name": "TikTok", "icon": "icon-tiktok.png", "url": "#" },
+    { "name": "X", "icon": "icon-x.png", "url": "#" }
+  ],
+  "awards": {
+    "heading": "Awards and Recognition",
+    "list": [
+      "Brands For Good 2025 – Honouree",
+      "SPBA 2025 – Promising Brands",
+      "SPBA 2025 – Transformation Efforts"
+    ],
+    "chambers": {
+      "heading": "Business Chambers",
+      "list": [
+        "Member of Singapore Chinese Chamber of Commerce & Industry (SCCCI)",
+        "Member of Singapore Business Federation (SBF)"
+      ]
+    },
+    "logos": [
+      { "name": "Singapore Prestige Brand Award 2025", "image": "award-spba.png" },
+      { "name": "Brands For Good", "image": "award-brands-for-good.png" },
+      { "name": "Singapore Chinese Chamber of Commerce & Industry", "image": "award-sccci.png" },
+      { "name": "Singapore Business Federation", "image": "award-sbf.png" }
+    ]
+  },
+  "copyright": "© 2026 GO-GENIE® All Rights Reserved."
+}
