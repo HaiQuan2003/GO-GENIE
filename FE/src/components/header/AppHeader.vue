@@ -130,7 +130,7 @@
 import { ref } from 'vue'
 import NavDropdown from './NavDropdown.vue'
 import LanguageSwitcher from './LanguageSwitcher.vue'
-import navData from '../../../../data/navigation.json'
+import navData from '@/data/navigation.json'
 
 const navItems = navData.navItems
 const mobileOpen = ref(false)

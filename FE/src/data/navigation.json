@@ -1,0 +1,84 @@
+{
+  "navItems": [
+    {
+      "label": "Services",
+      "dropdown": [
+        {
+          "title": "Delivery",
+          "description": "Fast and accurate order processing",
+          "icon": "services_menu1.png"
+        },
+        {
+          "title": "Warehousing",
+          "description": "Reliable last-mile delivery",
+          "icon": "services_menu2.png"
+        },
+        {
+          "title": "Fulfilment",
+          "description": "Secure storage for your inventory",
+          "icon": "services_menu3.png"
+        }
+      ]
+    },
+    {
+      "label": "Solutions",
+      "dropdown": [
+        {
+          "title": "Merchant",
+          "description": "Solutions to support your business",
+          "icon": "solution_menu1.png"
+        },
+        {
+          "title": "Service Provider",
+          "description": "Tools to manage your services",
+          "icon": "solution_nemu2.png"
+        },
+        {
+          "title": "Gig Worker",
+          "description": "Opportunities to earn through deliveries",
+          "icon": "solutions_menu3.png"
+        }
+      ]
+    },
+    {
+      "label": "About",
+      "dropdown": [
+        {
+          "title": "GO-GENIE®",
+          "description": "Learn about our vision and mission",
+          "iconType": "sparkle"
+        },
+        {
+          "title": "Our Ecosystem",
+          "description": "Connecting merchants and providers",
+          "iconType": "globe"
+        },
+        {
+          "title": "Sustainability",
+          "description": "Building a smarter logistics future",
+          "iconType": "leaf"
+        },
+        {
+          "title": "Newsroom",
+          "description": "Latest updates and announcements",
+          "iconType": "newspaper"
+        }
+      ]
+    },
+    {
+      "label": "Help & Guides",
+      "dropdown": [
+        {
+          "title": "Help Center",
+          "description": "Find answers to common questions",
+          "iconType": "headset"
+        },
+        {
+          "title": "Contact Us",
+          "description": "Get in touch with our team",
+          "iconType": "phone"
+        }
+      ]
+    }
+  ]
+}
