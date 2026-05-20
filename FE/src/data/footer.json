@@ -1,0 +1,24 @@
+{
+  "columns": [
+    {
+      "heading": "Services",
+      "links": ["Last-Mile Delivery", "Warehousing", "Fulfilment"]
+    },
+    {
+      "heading": "Solutions",
+      "links": ["Merchants", "Service Providers", "Gig Workers"]
+    },
+    {
+      "heading": "About",
+      "links": ["GO-GENIE®", "Our Ecosystem", "Sustainability", "Newsroom"]
+    },
+    {
+      "heading": "Help & Guides",
+      "links": ["Help Center", "Contact Us"]
+    },
+    {
+      "heading": "Quick Links",
+      "links": ["Privacy Policy", "Terms of Service", "Data Retention Policy"]
+    }
+  ]
+}

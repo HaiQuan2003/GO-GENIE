@@ -97,7 +97,7 @@
 
 <script setup>
 import FooterAwards from './FooterAwards.vue'
-import footerData from '../../../../data/footer.json'
+import footerData from '@/data/footer.json'
 
 const footerColumns = footerData.columns
 </script>
